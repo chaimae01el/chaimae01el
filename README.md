@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @chaimae01el
-- 👀 I’m interested in web site
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-chaimae01el/chaimae01el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Chaimae (@chaimae01el), a passionate full-stack web developer.
+👀 I’m interested in building dynamic and responsive websites that provide a seamless user experience.
+🌱 I’m currently enhancing my skills in advanced JavaScript frameworks like React and Node.js.
+💞️ I’m looking to collaborate on innovative web projects that involve complex backend logic and engaging frontend design.
+📫 How to reach me: You can connect with me on LinkedIn ( www.linkedin.com/in/chaimae-el-khatib-07b074250 ), or feel free to reach out via email at your chaimae15elel@gmail.com.
+😄 Pronouns: She/Her
+⚡ Fun fact: I’m a big fan of solving coding challenges; they’re like puzzles that keep my mind sharp!
