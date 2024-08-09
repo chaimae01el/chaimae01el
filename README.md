@@ -1,4 +1,4 @@
-👋 Hi, I’m Chaimae (@chaimae01el), a passionate full-stack web developer.
+👋 Hi, I’m Chaimae El Khatib (@shemy_code), a passionate full-stack web developer.
 👀 I’m interested in building dynamic and responsive websites that provide a seamless user experience.
 🌱 I’m currently enhancing my skills in advanced JavaScript frameworks like React and Node.js.
 💞️ I’m looking to collaborate on innovative web projects that involve complex backend logic and engaging frontend design.
